@@ -13,6 +13,7 @@ public class Calculadora {
             System.out.println("4. Divisão (/)");
             System.out.println("Digite o número correspondente à operação desejada:");
 
+            
             int opcao = sc.nextInt();
 
             System.out.println("Digite o primeiro numero:");
